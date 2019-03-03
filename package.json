@@ -1,0 +1,22 @@
+{
+  "name": "pdftranslate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freebsdk/pdftranslate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freebsdk/pdftranslate/issues"
+  },
+  "homepage": "https://github.com/freebsdk/pdftranslate#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
